@@ -1,4 +1,5 @@
 Exploring-Hotel-Booking-Data--Using-Python 
+The "Exploring Hotel Booking Data" project utilizes Python to analyze hotel booking data, uncovering insights into booking patterns, customer preferences, and hotel performance. Through data exploration, visualization, and statistical analysis, the project aims to identify trends, such as peak booking periods and popular amenities. By understanding these patterns, businesses can optimize pricing strategies, improve customer satisfaction, and enhance overall performance. This project provides actionable insights to drive decision-making and enhance the hospitality experience.
 Dataset:hotel_booking.csv
 There are rows:119390 and 36 columns. The dataset includes information on booking dates, guest demographics, reservation details, and other relevant variables. 
 Here's a description of each column:
